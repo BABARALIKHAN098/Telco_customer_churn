@@ -150,4 +150,4 @@ if st.button("Predict Churn Status"):
 
 st.sidebar.markdown("### About")
 st.sidebar.info("This application uses a pre-trained Decision Tree model to predict customer churn for a telecom company.")
-st.sidebar.markdown("Created with ❤️ by Antigravity")
+st.sidebar.markdown("Created with ❤️ by Babar ALi Khan")
